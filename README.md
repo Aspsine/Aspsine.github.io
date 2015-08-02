@@ -1,2 +1,2 @@
-# Aspsine.github.io
-Blog
+# aspsine.github.io
+Tech Blog
